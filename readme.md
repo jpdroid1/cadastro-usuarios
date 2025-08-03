@@ -1,7 +1,5 @@
 # Sistema de Cadastro de Usuários
 
-![Screenshot do Sistema](screenshots/screenshot.png)
-
 Sistema completo para cadastro e gerenciamento de usuários com frontend, backend e banco de dados.
 
 ## ✨ Funcionalidades
