@@ -19,4 +19,4 @@ Sistema completo para cadastro e gerenciamento de usuários com frontend, backen
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/cadastro-usuarios.git
+git clone https://github.com/jpdroid1/cadastro-usuarios.git
